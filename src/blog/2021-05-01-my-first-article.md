@@ -1,6 +1,9 @@
 ---
 title: Vânt tomnatec de Împăratul Wu-ti
-description: "Vânt tomnatec adie: nori dalbi plutesc."
+description: "Vânt tomnatec adie: nori dalbi plutesc. Iarba și copacii ofilesc:
+  Gâștele sălbatice zboară spre sud. Orhideele, toate în plină floare:
+  Crizantemele oferă un dulce parfum. Gândul, la frumoasa mea doamnă mă poartă:
+  Vreodată n-o pot uita. Pagoda plutitoare străbate Râul Fen."
 author: Maria Cristina
 date: 2020-01-27T14:18:00.000+02:00
 tags:
